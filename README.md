@@ -100,3 +100,5 @@ Screenshot the image of the complete schematic and upload it at the repository.
 ## Conclusion
 
 In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+
+En conclusión, se me hizo muy intuitiva y fácil de usar la herramienta para realizar los esquemátios, lo único con lo que batallé fue con algunas partes del screenshot en el que nos teníamos que basar, no se distinguía bien el valor de algunas resistencias y voltajes que se declaraban. Otra cosa que no me gustó mucho fue el uso del zoom, pues es muy sensible y se debe estar usando a cada rato.
